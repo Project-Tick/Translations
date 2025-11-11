@@ -960,7 +960,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -972,7 +972,7 @@ Sürüm %3&apos;ten %4&apos;e güncelleniyor
 Hedef kurulum yolu: %5
 Veri Yolu: %6
 Bu muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına geliyor. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Prism Launcher güncelleyici günlüğünü şu konumdan kontrol edin:
+ProjT Launcher güncelleyici günlüğünü şu konumdan kontrol edin:
 %7
 son güncelleme girişimiyle ilgili ayrıntılar için.
 
@@ -988,13 +988,13 @@ Kilidi silmek ve devam etmek için aşağıdan &quot;Yoksay&quot; seçeneğini s
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Bir güncelleme denemesi başarısız oldu
 
 Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+ProjT Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
 %1
 son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
     </message>
@@ -1008,19 +1008,19 @@ son güncelleme girişimiyle ilgili ayrıntılar için.</translation>
         <source>Update succeeded
 
 You are now running %1 .
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
 
 You are now running %1 .
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %1
 for details.</oldsource>
         <translation>Güncelleme başarılı
 
 Şu anda %1 çalıştırıyorsunuz.
-Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+ProjT Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
 %2
 detaylar için.</translation>
     </message>
@@ -3870,7 +3870,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like Prism Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like ProjT Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
         <translation>Not: CurseForge ve bazı mod geliştiricileri PolyMC gibi üçüncü parti uygulamalara mod indirilmesini izin vermiyor. Bu yüzden, bir mod paketi kurabilmek için bazı modları elle indirmeniz gerekebilir.</translation>
     </message>
@@ -4209,9 +4209,9 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="63"/>
-        <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
+        <source>- ProjT Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation>- Prism Başlatıcı, PolyMC veya MultiMC dışa çıkarılmış profiller (ZIP)</translation>
+        <translation>- ProjT Başlatıcı, PolyMC veya MultiMC dışa çıkarılmış profiller (ZIP)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/ImportPage.ui" line="73"/>
@@ -5528,7 +5528,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="153"/>
         <source>If enabled, the launcher won&apos;t prompt you to choose a Java version if one is not found on startup.</source>
-        <translation>Eğer etkinleştirilirse Prism Launcher, (başlangıçta bulunmadığı hâlde) bir Java sürümü seçmenizi istemeyecek.</translation>
+        <translation>Eğer etkinleştirilirse ProjT Launcher, (başlangıçta bulunmadığı hâlde) bir Java sürümü seçmenizi istemeyecek.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="156"/>
@@ -5538,7 +5538,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Eğer aktifleştirilirse, Prism Launcher bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
+        <translation>Eğer aktifleştirilirse, ProjT Launcher bir profilin seçili Java sürümüyle uyumlu olup olmadığına bakmaz.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -5705,9 +5705,9 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="86"/>
-        <source>Please select how much memory to allocate to instances and if Prism Launcher should manage Java automatically or manually.</source>
-        <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve Prism Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
+        <source>Please select how much memory to allocate to instances and if ProjT Launcher should manage Java automatically or manually.</source>
+        <oldsource>Please select how much memory to allocate to instances and if ProjT Launcher should manage java automatically or manually.</oldsource>
+        <translation>Lütfen Minecraft&apos;a ne kadar bellek ayırılacağını seçin ve ProjT Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yönetmesi gerektiğini belirleyin.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -5911,7 +5911,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="316"/>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation>Prism Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
+        <translation>ProjT Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
     </message>
     <message>
         <location filename="src/launcher/LaunchController.cpp" line="326"/>
@@ -7889,8 +7889,8 @@ Sebep:
         <translation>&amp;PATH dizinine kur</translation>
     </message>
     <message>
-        <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="vanished">/usr/local/bin&apos;e bir prismlauncher sembolik bağlantısı kur</translation>
+        <source>Install a projtlauncher symlink to /usr/local/bin</source>
+        <translation type="vanished">/usr/local/bin&apos;e bir projtlauncher sembolik bağlantısı kur</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -7972,8 +7972,8 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="460"/>
-        <source>Prism Launcher (zip)</source>
-        <translation>Prism Başlatıcı (zip)</translation>
+        <source>ProjT Launcher (zip)</source>
+        <translation>ProjT Başlatıcı (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="468"/>
@@ -11748,183 +11748,183 @@ Hata mesajı: %3</translation>
     </message>
 </context>
 <context>
-    <name>PrismExternalUpdater</name>
+    <name>ProjTExternalUpdater</name>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="94"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="94"/>
         <source>Checking for updates...</source>
         <translation>Güncellemeler denetleniyor…</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="123"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="144"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="123"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="144"/>
         <source>Update Check Failed</source>
         <translation>Güncelleme Kontrolü Başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="124"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="124"/>
         <source>Failed to start after 5 seconds
 Reason: %1.</source>
         <translation>5 saniye sonra başlatılamadı
 Nedeni: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="145"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="145"/>
         <source>Updater failed to close 60 seconds
 Reason: %1.</source>
         <translation>Güncelleyici 60 saniyeyi kapatamadı
 Sebep: %1.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="306"/>
         <source>No Update Available</source>
         <translation>Yeni Güncelleme Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="170"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="170"/>
         <source>You are running the latest version.</source>
         <translation>En son sürümü kullanıyorsunuz.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="181"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="181"/>
         <source>Update Check Error</source>
         <translation>Güncelleme Kontrol Hatası</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="182"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="182"/>
         <source>There was an error running the update check.</source>
         <translation>Güncelleme kontrolünü çalıştırırken bir hata oluştu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="209"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="209"/>
         <source>Unknown Update Error</source>
         <translation>Bilinmeyen Güncelleme Hatası</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="210"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="210"/>
         <source>The updater exited with an unknown condition.
 Exit Code: %1</source>
         <translation>Güncelleyici bilinmeyen bir durumla çıktı
 Çıkış Kodu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="212"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="212"/>
         <source>StdOut: %1
 StdErr: %2</source>
         <translation>StdOut: %1
 StdErr: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/PrismExternalUpdater.cpp" line="306"/>
+        <location filename="src/launcher/updater/ProjTExternalUpdater.cpp" line="306"/>
         <source>There are no new updates available.</source>
         <translation>Kullanılabilir yeni güncelleme yok.</translation>
     </message>
 </context>
 <context>
-    <name>PrismUpdaterApp</name>
+    <name>ProjTUpdaterApp</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="105"/>
         <source>Use a custom path as application root (use &apos;.&apos; for current directory).</source>
         <translation>Uygulama kökü olarak özel bir yol kullanın (geçerli dizin için &apos;.&apos; kullanın).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="105"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="105"/>
         <source>directory</source>
         <translation>dizin</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="107"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="107"/>
         <source>Use this version as the installed launcher version. (provided because stdout can not be reliably captured on windows)</source>
         <translation>Bu sürümü yüklü başlatıcı sürümü olarak kullanın. (stdout windows üzerinde güvenilir bir şekilde yakalanamadığı için sağlanmıştır)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="108"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="108"/>
         <source>installed launcher version</source>
         <translation>yüklü başlatıcı sürümü</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="109"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="109"/>
         <source>version name</source>
         <translation>sürüm adı</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="110"/>
         <source>Update from the specified repo.</source>
         <translation>Belirtilen depodan güncelle.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="110"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="110"/>
         <source>github repo url</source>
         <translation>github depo bağlantısı</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="112"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="112"/>
         <source>Only check if an update is needed. Exit status 100 if true, 0 if false (or non 0 if there was an error).</source>
         <translation>Yalnızca bir güncelleme gerekip gerekmediğini kontrol edin. Çıkış durumu doğruysa 100, yanlışsa 0 (veya bir hata varsa 0 değil).</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="113"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="113"/>
         <source>Allow updating to pre-release releases</source>
         <translation>Ön sürümlere güncellemeye izin ver</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="114"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="114"/>
         <source>Force an update, even if one is not needed.</source>
         <translation>Gerekli olmasa bile güncellemeye zorla.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="115"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="115"/>
         <source>List available releases.</source>
         <translation>Kullanılabilir sürümleri listeleyin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="116"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="116"/>
         <source>Log debug to console.</source>
         <translation>Konsolda hata ayıklama günlüğü.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="117"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="117"/>
         <source>Select the version to install with a GUI.</source>
         <translation>GUI ile kurulacak sürümü seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="118"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="118"/>
         <source>Allow the updater to downgrade to previous versions.</source>
         <translation>Güncelleyicinin önceki sürümlere düşürmesine izin verin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="129"/>
         <source>MacOS Not Supported</source>
         <translation>MacOS Desteklenmiyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="129"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="129"/>
         <source>The updater does not support installations on MacOS</source>
         <translation>Güncelleyici MacOS&apos;ta yüklemeleri desteklemez</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="136"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="136"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="149"/>
         <source>Unsupported Installation</source>
         <translation>Desteklenmeyen Kurulum</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="137"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="137"/>
         <source>Updater is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
         <translation>Güncelleyici yanlış yapılandırılmış AppImage olarak mı çalışıyor? ($APPIMAGE ortam değişkeni eksik)</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="149"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="149"/>
         <source>The updater can not find the main executable.</source>
         <translation>Güncelleyici ana çalıştırılabilir dosyayı bulamıyor.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="266"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="266"/>
         <source>The launcher data folder is not writable!</source>
         <translation>Başlatıcı veri klasörü yazılabilir değil!</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="267"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="267"/>
         <source>The updater couldn&apos;t create a log file - the data folder is not writable.
 
 Make sure you have write permissions to the data folder.
@@ -11939,14 +11939,14 @@ Veri klasörüne yazma izniniz olduğundan emin olun.
 Siz bu sorunu çözene kadar güncelleyici devam edemez.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="477"/>
         <source>Updating flatpack not supported</source>
         <translation>Flatpack&apos;in güncellenmesi desteklenmiyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="477"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Prism Launcher.</source>
-        <translation>Prism Launcher&apos;ın flatpak sürümünü çalıştırırken bir güncellemenin mevcut olup olmadığını kontrol etmenin dışındaki eylemler desteklenmez.</translation>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="477"/>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of ProjT Launcher.</source>
+        <translation>ProjT Launcher&apos;ın flatpak sürümünü çalıştırırken bir güncellemenin mevcut olup olmadığını kontrol etmenin dışındaki eylemler desteklenmez.</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -11957,111 +11957,111 @@ Siz bu sorunu çözene kadar güncelleyici devam edemez.</translation>
         <translation type="vanished">Taşınabilir olmayan linux kurulumlarının güncellenmesi desteklenmez. Lütfen sistem paket yöneticinizi kullanın</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="534"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="987"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="534"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="987"/>
         <source>Reading manifest from %1</source>
         <translation>%1 kaynağından manifest okunuyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="546"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="546"/>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
         <translation>Manifest boş, %1 dizin içeriği hakkında en iyi tahmin yapılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="552"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="552"/>
         <source>Installing the following to %1 :
  %2</source>
         <translation>Aşağıdakileri %1&apos;e yüklüyorum:
  %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="556"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="563"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="556"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="563"/>
         <source>Installing from %1</source>
         <translation>%1 konumundan yükleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="568"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="568"/>
         <source>Installing %1 from %2</source>
         <translation>%2&apos;den %1 yükleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="572"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="572"/>
         <source>Failed copy %1 to %2</source>
         <translation>1&apos;den %2&apos;ye kopyalama başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="587"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1062"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="587"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1062"/>
         <source>File doesn&apos;t exist, ignoring: %1</source>
         <translation>Dosya mevcut değil, göz ardı ediliyor: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="600"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="600"/>
         <source>There were errors installing the update.</source>
         <translation>Güncelleme kurulurken hatalar oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="604"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="604"/>
         <source>Update succeed.</source>
         <translation>Güncelleme başarılı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="765"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="765"/>
         <source>No Valid Release Assets</source>
         <translation>Geçerli Serbest Bırakma Varlığı Yok</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="766"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="766"/>
         <source>Github release %1 has no valid assets for this platform: %2</source>
         <translation>Github sürümü %1&apos;in bu platform için geçerli varlıkları yok: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="768"/>
         <source>%1 portable: %2</source>
         <translation>%1 taşınabilir: %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="940"/>
         <source>yes</source>
         <translation>evet</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="768"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="768"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="940"/>
         <source>no</source>
         <translation>hayır</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="776"/>
         <source>No version selected.</source>
         <translation>Sürüm seçilmedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="776"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="776"/>
         <source>No version was selected.</source>
         <translation>Hiçbir sürüm seçilmedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="783"/>
         <source>Failed to Download</source>
         <translation>İndirme Başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="783"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="783"/>
         <source>Failed to download the selected asset.</source>
         <translation>Seçilen kaynak indirilemedi.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="885"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="885"/>
         <source>Update already in progress
 </source>
         <translation>Güncelleme zaten devam ediyor
 </translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="887"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="887"/>
         <source>This installation has a update lock file present at: %1
 
 Timestamp: %2
@@ -12069,7 +12069,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -12081,137 +12081,137 @@ Sürüm %3&apos;ten %4&apos;e güncelleniyor
 Hedef yükleme yolu: %5
 Veri Yolu: %6
 Bu muhtemelen önceki bir güncelleme girişiminin başarısız olduğu anlamına gelir. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-Prism Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+ProjT Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
 %7
 son güncelleme girişimiyle ilgili ayrıntılar için.
 
 Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağıdaki &quot;Yoksay&quot; seçeneğini seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="917"/>
         <source>Update Aborted</source>
         <translation>Güncelleme İptal Edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="917"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="917"/>
         <source>The update attempt was aborted</source>
         <translation>Güncelleme girişimi iptal edildi</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="925"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="925"/>
         <source>Updating from %1 to %2</source>
         <translation>%1&apos;den %2&apos;ye güncelleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="928"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="928"/>
         <source>Updating portable install at %1</source>
         <translation>Taşınabilir(başka bilgisayarlardada çalışan) yükleme %1&apos;de güncelleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="931"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="931"/>
         <source>Running installer file at %1</source>
         <translation>%1&apos;de yükleyici dosyası çalıştırılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="940"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="940"/>
         <source>Process start result: %1</source>
         <translation>İşlem başlatma sonucu: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="947"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="947"/>
         <source>Backing up install</source>
         <translation>Kurulum yedekleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="968"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="968"/>
         <source>Starting new updater at &apos;%1&apos;</source>
         <translation>&apos;%1&apos; adresinde yeni güncelleyici başlatılıyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="970"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="970"/>
         <source>Failed to launch &apos;%1&apos; %2</source>
         <translation>&apos;%1&apos; %2 başlatılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1020"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1020"/>
         <source>Backing up:
   %1</source>
         <translation>Yedekleniyor:
   %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1030"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1037"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1030"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1037"/>
         <source>Backing up install at %1</source>
         <translation>%1&apos;deki yükleme yedekleniyor</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1042"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1042"/>
         <source>Backing up and then removing %1</source>
         <translation>Yedekleme ve ardından kaldırma %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1046"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1046"/>
         <source>Failed to backup %1 to %2</source>
         <translation>%1&apos;i %2&apos;ye yedekleme başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1049"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1049"/>
         <source>Failed to remove %1</source>
         <translation>%1 kaldırılamadı</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1084"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1084"/>
         <source>Extracted the following to &quot;%1&quot;:
   %2</source>
         <translation>Aşağıdakiler &quot;%1 &quot;e çıkarıldı:
   %2</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1086"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1088"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1086"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1088"/>
         <source>Failed to extract %1 to %2</source>
         <translation>%1&apos;den %2&apos;ye çıkarma işlemi başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1095"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1095"/>
         <source>Running: `%1 %2`</source>
         <translation>Çalışıyor: `%1 %2`</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1099"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1099"/>
         <source>Failed to launch child process &quot;%1 %2&quot;.</source>
         <oldsource>Failed to launcher child process &quot;%1 %2&quot;.</oldsource>
         <translation>&quot;%1 %2&quot; alt süreci başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1101"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1101"/>
         <source>Failed extract archive</source>
         <translation>Arşiv ayıklama başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1108"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1108"/>
         <source>Child process &quot;%1 %2&quot; failed.</source>
         <translation>Alt süreç &quot;%1 %2&quot; başarısız oldu.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1110"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1110"/>
         <source>Failed to extract archive</source>
         <translation>Arşiv ayıklama başarısız oldu</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1115"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1115"/>
         <source>Unknown archive format for %1</source>
         <translation>Bilinmeyen arşiv biçimi %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1130"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1134"/>
         <source>Failed to Check Version</source>
         <translation>Sürüm Kontrolü Başarısız</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1130"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1130"/>
         <source>Failed to launch child process to read version.</source>
         <translation>Sürüm okumak için alt süreç başlatılamadı.</translation>
     </message>
@@ -12220,7 +12220,7 @@ Bu kilidin üzerine yazmak ve yine de bu güncellemeye devam etmek için aşağ�
         <translation type="vanished">Sürüm okumak için alt başlatıcı işlemi başlatılamadı.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="1134"/>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="1134"/>
         <source>Child launcher process failed.</source>
         <translation>Çocuk başlatıcı işlemi başarısız oldu.</translation>
     </message>
@@ -12539,13 +12539,13 @@ HTTP Durumu: %2</translation>
     <message>
         <source>%1 Developers</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Developers&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;ProjT Launcher Developers&quot;</extracomment>
         <translation>%1 Geliştiricileri</translation>
     </message>
     <message>
         <source>%1 Contributors</source>
         <comment>About Credits</comment>
-        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;Prism Launcher Contributors&quot;</extracomment>
+        <extracomment>%1 is the name of the launcher, determined at build time, e.g. &quot;ProjT Launcher Contributors&quot;</extracomment>
         <translation type="vanished">%1 Katkıda bulunanlar</translation>
     </message>
     <message>
@@ -13182,8 +13182,8 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="64"/>
-        <source>a batch MKLINK program for windows to be used with prismlauncher</source>
-        <translation>prismlauncher ile kullanılmak üzere windows için bir toplu MKLINK programı</translation>
+        <source>a batch MKLINK program for windows to be used with projtlauncher</source>
+        <translation>projtlauncher ile kullanılmak üzere windows için bir toplu MKLINK programı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -13191,9 +13191,9 @@ NOT: Güncellemeden önce profilinizin önemli verilerini yedeklediğinizden emi
         <translation>Gruplanmamış</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="102"/>
-        <source>An auto-updater for Prism Launcher</source>
-        <translation>Prism Launcher için otomatik güncelleyici</translation>
+        <location filename="src/launcher/updater/projtupdater/ProjTUpdater.cpp" line="102"/>
+        <source>An auto-updater for ProjT Launcher</source>
+        <translation>ProjT Launcher için otomatik güncelleyici</translation>
     </message>
     <message>
         <location filename="src/launcher/MMCZip.cpp" line="344"/>
@@ -14749,17 +14749,17 @@ Emin misin?</translation>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Version</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="120"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="120"/>
         <source>Published Date</source>
         <translation>Yayınlanma Tarihi</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="123"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="123"/>
         <source>Select a version to install.</source>
         <translation>Yüklemek için bir sürüm seçin.</translation>
     </message>
@@ -14767,27 +14767,27 @@ Emin misin?</translation>
 <context>
     <name>SelectReleaseDialog</name>
     <message>
-        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="14"/>
+        <location filename="src/launcher/updater/projtupdater/SelectReleaseDialog.ui" line="14"/>
         <source>Select Release to Install</source>
         <translation>Yüklenecek Sürümü Seçin</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/SelectReleaseDialog.ui" line="23"/>
+        <location filename="src/launcher/updater/projtupdater/SelectReleaseDialog.ui" line="23"/>
         <source>Please select the release you wish to update to.</source>
         <translation>Lütfen güncellemek istediğiniz sürümü seçin.</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Version</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="45"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="45"/>
         <source>Published Date</source>
         <translation>Yayınlanma Tarihi</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="48"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="48"/>
         <source>Select a version to install.
 
 Currently installed version: %1</source>
@@ -14796,12 +14796,12 @@ Currently installed version: %1</source>
 Şu anda yüklü sürüm: %1</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="60"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="60"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="src/launcher/updater/prismupdater/UpdaterDialogs.cpp" line="61"/>
+        <location filename="src/launcher/updater/projtupdater/UpdaterDialogs.cpp" line="61"/>
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
