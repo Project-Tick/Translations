@@ -756,7 +756,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the Prism Launcher updater log at: 
+Check the ProjT Launcher updater log at: 
 %7
 for details on the last update attempt.
 
